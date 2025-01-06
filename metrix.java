@@ -2,15 +2,15 @@ public class metrix{
     public static void main(String[] args) {
 
         int[][] matrix1 = {
-            {8, 2, 3},
-            {4, 8, 7},
-            {7, 5, 10}
+            {9, 2, 3},
+            {4, 8, 10},
+            {7, 3, 10}
         };
 
         int[][] matrix2 = {
-            {9, 8, 7},
-            {6, 5, 4},
-            {9, 4, 9}
+            {5, 8, 7},
+            {6, 9, 4},
+            {9, 4, 10}
         };
 
         int[][] resultMatrix = new int[3][3];
